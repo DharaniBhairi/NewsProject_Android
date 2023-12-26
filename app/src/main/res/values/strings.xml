@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NewsProject</string>
+    <string name="title">Kamprets</string>
+    <string name="skip">Skip</string>
+    <string name="description">Choose a topic to\nstart reading</string>
+    <string name="world">World</string>
+    <string name="_continue">Continue</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="all">All</string>
+    <string name="games">Games</string>
+    <string name="error_response_no_internet">ERROR : No Internet Connectivity</string>
+    <string name="technology">Technology</string>
+    <string name="error_text">ERROR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="save_fragment">Save Fragment</string>
+    <string name="settings_fragment">Settings Fragment</string>
+    <string name="save">Save</string>
+    <string name="splashscreen">Splash Screen</string>
+    <string name="saved_news">Saved News</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="no_save_data">No Saved Data</string>
+    <string name="please_Wait">Please Wait</string>
+    <string name="name">name</string>
+    <string name="update">Update</string>
+    <string name="enter_name">name</string>
+
+</resources>
